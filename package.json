@@ -1,0 +1,22 @@
+{
+  "name": "jzapata333",
+  "version": "1.0.0",
+  "description": "An npm functional programming library project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JZapata333/lodown.git"
+  },
+  "author": "jzapata333",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JZapata333/lodown/issues"
+  },
+  "homepage": "https://github.com/JZapata333/lodown#readme"
+}
