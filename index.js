@@ -240,7 +240,7 @@ function pluck(array, property) {
     return output;
 }
 
-module.exorts.pluck = pluck;
+module.exports.pluck = pluck;
 
 /**
  * contains: designed to take an array and return 'true' if the value is present
@@ -256,7 +256,7 @@ function contains(array, value) {
 return (_.indexOf(array, value) === -1) ? false : true; 
 } 
 
-module.export.contains = contains;
+module.exports.contains = contains;
 
 /**
  * every: designed to iterate over a collection and return 'true' if all the 
